@@ -3,7 +3,6 @@
 
 typedef int ElementType;
 
-
 struct Node;
 typedef struct Node *PtrToNode;
 typedef PtrToNode List;
